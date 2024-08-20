@@ -1,0 +1,101 @@
+RK,Name,Team,P,G,Season,GoalsPerGame
+1,Robert Lewandowski,Bayern Munich,10,15,2019,1.5
+2,Erling Haaland,Borussia Dortmund,8,10,2019,1.25
+3,Serge Gnabry,Bayern Munich,10,9,2019,0.9
+4,Raheem Sterling,Manchester City,9,6,2019,0.6666666666666666
+5,Memphis Depay,Lyon,8,6,2019,0.75
+6,Gabriel Jesus,Manchester City,8,6,2019,0.75
+7,Dries Mertens,Napoli,8,6,2019,0.75
+8,Harry Kane,Tottenham Hotspur,5,6,2019,1.2
+9,Kylian Mbappé,Paris Saint-Germain,10,5,2019,0.5
+10,Karim Benzema,Real Madrid,8,5,2019,0.625
+11,Luis Suárez,Barcelona,7,5,2019,0.7142857142857143
+12,Josip Ilicic,Atalanta,7,5,2019,0.7142857142857143
+13,Mauro Icardi,Paris Saint-Germain,7,5,2019,0.7142857142857143
+14,Lautaro Martínez,Internazionale,6,5,2019,0.8333333333333334
+15,Son Heung-Min,Tottenham Hotspur,6,5,2019,0.8333333333333334
+16,Thomas Müller,Bayern Munich,10,4,2019,0.4
+17,Marcel Sabitzer,RB Leipzig,9,4,2019,0.4444444444444444
+18,Emil Forsberg,RB Leipzig,9,4,2019,0.4444444444444444
+19,Mohamed Salah,Liverpool,8,4,2019,0.5
+20,Cristiano Ronaldo,Juventus,8,4,2019,0.5
+1,Erling Haaland,Borussia Dortmund,8,10,2020,1.25
+2,Kylian Mbappé,Paris Saint-Germain,10,8,2020,0.8
+3,Karim Benzema,Real Madrid,10,6,2020,0.6
+4,Mohamed Salah,Liverpool,10,6,2020,0.6
+5,Neymar,Paris Saint-Germain,9,6,2020,0.6666666666666666
+6,Álvaro Morata,Juventus,8,6,2020,0.75
+7,Youssef En-Nesyri,Sevilla,8,6,2020,0.75
+8,Olivier Giroud,Chelsea,8,6,2020,0.75
+9,Marcus Rashford,Manchester United,6,6,2020,1.0
+10,Sérgio Oliveira,FC Porto,8,5,2020,0.625
+11,Alassane Pléa,Borussia Monchengladbach,8,5,2020,0.625
+12,Lionel Messi,Barcelona,6,5,2020,0.8333333333333334
+13,Robert Lewandowski,Bayern Munich,6,5,2020,0.8333333333333334
+14,Ciro Immobile,Lazio,5,5,2020,1.0
+15,Timo Werner,Chelsea,12,4,2020,0.3333333333333333
+16,Riyad Mahrez,Manchester City,12,4,2020,0.3333333333333333
+17,Diogo Jota,Liverpool,9,4,2020,0.4444444444444444
+18,Federico Chiesa,Juventus,8,4,2020,0.5
+19,Eric Maxim Choupo-Moting,Bayern Munich,7,4,2020,0.5714285714285714
+20,Cristiano Ronaldo,Juventus,6,4,2020,0.6666666666666666
+1,Karim Benzema,Real Madrid,12,15,2021,1.25
+2,Robert Lewandowski,Bayern Munich,10,13,2021,1.3
+3,Sébastien Haller,Ajax Amsterdam,8,11,2021,1.375
+4,Mohamed Salah,Liverpool,13,8,2021,0.6153846153846154
+5,Riyad Mahrez,Manchester City,12,7,2021,0.5833333333333334
+6,Christopher Nkunku,RB Leipzig,6,7,2021,1.1666666666666667
+7,Arnaut Danjuma,Villarreal,11,6,2021,0.5454545454545454
+8,Leroy Sané,Bayern Munich,10,6,2021,0.6
+9,Darwin Núñez,Benfica,10,6,2021,0.6
+10,Kylian Mbappé,Paris Saint-Germain,8,6,2021,0.75
+11,Cristiano Ronaldo,Manchester United,7,6,2021,0.8571428571428571
+12,Sadio Mané,Liverpool,13,5,2021,0.38461538461538464
+13,Rodrygo,Real Madrid,11,5,2021,0.45454545454545453
+14,Lionel Messi,Paris Saint-Germain,7,5,2021,0.7142857142857143
+15,Roberto Firmino,Liverpool,7,5,2021,0.7142857142857143
+16,Vinícius Júnior,Real Madrid,13,4,2021,0.3076923076923077
+17,Luis Díaz,Liverpool,13,4,2021,0.3076923076923077
+18,Thomas Müller,Bayern Munich,10,4,2021,0.4
+19,Antoine Griezmann,Atlético Madrid,9,4,2021,0.4444444444444444
+20,Gabriel Jesus,Manchester City,8,4,2021,0.5
+1,Erling Haaland,Manchester City,11,12,2022,1.0909090909090908
+2,Mohamed Salah,Liverpool,8,8,2022,1.0
+3,Vinícius Júnior,Real Madrid,12,7,2022,0.5833333333333334
+4,Kylian Mbappé,Paris Saint-Germain,8,7,2022,0.875
+5,João Mário,Benfica,10,6,2022,0.6
+6,Olivier Giroud,AC Milan,12,5,2022,0.4166666666666667
+7,Rodrygo,Real Madrid,12,5,2022,0.4166666666666667
+8,Rafa Silva,Benfica,10,5,2022,0.5
+9,Mehdi Taremi,FC Porto,7,5,2022,0.7142857142857143
+10,Victor Osimhen,Napoli,6,5,2022,0.8333333333333334
+11,Robert Lewandowski,Barcelona,5,5,2022,1.0
+12,Edin Dzeko,Internazionale,13,4,2022,0.3076923076923077
+13,Karim Benzema,Real Madrid,10,4,2022,0.4
+14,Piotr Zielinski,Napoli,10,4,2022,0.4
+15,Leroy Sané,Bayern Munich,8,4,2022,0.5
+16,Darwin Núñez,Liverpool,8,4,2022,0.5
+17,Jude Bellingham,Borussia Dortmund,7,4,2022,0.5714285714285714
+18,Lionel Messi,Paris Saint-Germain,7,4,2022,0.5714285714285714
+19,Eric Maxim Choupo-Moting,Bayern Munich,7,4,2022,0.5714285714285714
+20,Giovanni Simeone,Napoli,7,4,2022,0.5714285714285714
+1,Kylian Mbappé,Paris Saint-Germain,12,8,2023,0.6666666666666666
+2,Harry Kane,Bayern Munich,12,8,2023,0.6666666666666666
+3,Vinícius Júnior,Real Madrid,10,6,2023,0.6
+4,Antoine Griezmann,Atlético Madrid,10,6,2023,0.6
+5,Erling Haaland,Manchester City,9,6,2023,0.6666666666666666
+6,Rodrygo,Real Madrid,13,5,2023,0.38461538461538464
+7,Joselu,Real Madrid,11,5,2023,0.45454545454545453
+8,Álvaro Morata,Atlético Madrid,10,5,2023,0.5
+9,Phil Foden,Manchester City,8,5,2023,0.625
+10,Galeno,FC Porto,7,5,2023,0.7142857142857143
+11,Julián Álvarez,Manchester City,7,5,2023,0.7142857142857143
+12,Rasmus Højlund,Manchester United,6,5,2023,0.8333333333333334
+13,Jude Bellingham,Real Madrid,11,4,2023,0.36363636363636365
+14,Bukayo Saka,Arsenal,9,4,2023,0.4444444444444444
+15,Leandro Trossard,Arsenal,9,4,2023,0.4444444444444444
+16,Loïs Openda,RB Leipzig,8,4,2023,0.5
+17,Ciro Immobile,Lazio,8,4,2023,0.5
+18,Gabriel Jesus,Arsenal,8,4,2023,0.5
+19,Evanilson,FC Porto,7,4,2023,0.5714285714285714
+20,Danylo Sikan,Shakhtar Donetsk,6,4,2023,0.6666666666666666
